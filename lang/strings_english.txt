@@ -1,0 +1,17 @@
+<?php
+
+/**
+ * Copyright © 2014-2018 Andrej Pavlovic. All rights reserved.
+ *
+ * This code may not be used, copied, modified, sold, or extended without written
+ * permission from Andrej Pavlovic (andrej.pavlovic@pokret.org).
+ */
+
+$s_plugin_PokretModifyBugNoteDate_ = '';
+$s_plugin_PokretModifyBugNoteDate_title = 'Pokret Modify Bug Note Date';
+$s_plugin_PokretModifyBugNoteDate_description = 'Allows the user to modify the date of bug note submission when editing the bug note.';
+
+$s_plugin_PokretModifyBugNoteDate_date_submitted = 'Date';
+$s_plugin_PokretModifyBugNoteDate_date_threshold = 'Edit threshold';
+
+$s_plugin_PokretModifyBugNoteDate_update_configuration = 'Update Configuration';
